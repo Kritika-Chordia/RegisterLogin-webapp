@@ -5,16 +5,16 @@ Tried to implement login feature for existing account, register for new account,
 This can be extended to any major project for initial entries. 
 **Major skills used:- HTML, SCSS, JS, Jquery, JSP, Java, JDBC, MySQL, Servlets, Tomcat deployment**
 **File hierarchy which I used in vs code is:**
-**registerlogin
+registerlogin
   src
     main
       java
         com
-          registration**
+          registration
             Login.java
             Logout.java
             RegistrationServlet.java
-     **webapp**
+      webapp
         assets
         css
         fonts
@@ -22,13 +22,13 @@ This can be extended to any major project for initial entries.
         js
         login-project
         scss
-       **WEB-INF**
+        WEB-INF
           web.xml
         index.jsp
         login.jsp
         registration.jsp
-  **target**
+  target
     //files created by compiler/code-editor
-  **pom**
+  pom
   Note:
   unzip the folder to access the project.
